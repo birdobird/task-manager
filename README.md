@@ -30,7 +30,7 @@ Simple<div align="center">
 
 ## 📸 Screenshots
 
-![Task Manager Screenshot](https://i.ibb.co/0pZDGBkb/image.png)
+![Task Manager Screenshot](https://i.ibb.co/N2zMtt9H/image.png)
 
 *Clean and intuitive interface for managing your tasks*
 
