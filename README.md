@@ -23,7 +23,7 @@ Simple<div align="center">
 
 ## 📸 Screenshots
 
-![Task Manager Screenshot](https://via.placeholder.com/800x500/4F46E5/FFFFFF?text=TaskFlow+Manager+Screenshot)
+![Task Manager Screenshot](https://i.ibb.co/0pZDGBkb/image.png)
 *Clean and intuitive interface for managing your tasks*
 
 ## 🛠️ Installation
