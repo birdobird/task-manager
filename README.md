@@ -3,7 +3,7 @@ Simple<div align="center">
   
   <p>Modern, animated task management application built with React, TypeScript, and Tailwind CSS</p>
 
-  <a href="[https://twoja-apka.vercel.app](https://task-manager-psi-ten-61.vercel.app/)" target="_blank">
+  <a href="https://twoja-apka.vercel.app](https://task-manager-psi-ten-61.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge" alt="Live Demo" />
   </a>
 
