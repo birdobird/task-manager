@@ -24,6 +24,7 @@ Simple<div align="center">
 ## 📸 Screenshots
 
 ![Task Manager Screenshot](https://i.ibb.co/0pZDGBkb/image.png)
+
 *Clean and intuitive interface for managing your tasks*
 
 ## 🛠️ Installation
