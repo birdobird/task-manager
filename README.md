@@ -1,6 +1,13 @@
 Simple<div align="center">
   <h1>✨ TaskFlow Manager</h1>
+  
   <p>Modern, animated task management application built with React, TypeScript, and Tailwind CSS</p>
+
+  <a href="[https://twoja-apka.vercel.app](https://task-manager-psi-ten-61.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Demo-%F0%9F%9A%80-blue?style=for-the-badge" alt="Live Demo" />
+  </a>
+
+  <br /><br />
   
   [![React](https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
